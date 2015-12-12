@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.Mantenimiento_Predictivo"/>
+      <point      
+        x = "436"      
+        y = "-212"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.Tipos_Mantenimiento"/>
+      <point      
+        x = "1488"      
+        y = "-196"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.Lista_Problemas"/>
+      <point      
+        x = "864"      
+        y = "1160"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.MainActivity"/>
+      <point      
+        x = "-32"      
+        y = "8"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.Acerca_de"/>
+      <point      
+        x = "2424"      
+        y = "80"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.Solucion_Problema"/>
+      <point      
+        x = "1712"      
+        y = "72"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.Mantenimiento_Correctivo"/>
+      <point      
+        x = "3036"      
+        y = "1480"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.Analisis"/>
+      <point      
+        x = "904"      
+        y = "76"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.omnisport.diagnosticadordepc.Mantenimiento_Preventivo"/>
+      <point      
+        x = "620"      
+        y = "108"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

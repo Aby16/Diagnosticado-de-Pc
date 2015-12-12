@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diagnosticador de PC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista__problemas">Lista_Problemas</string>
+    <string name="title_activity_analisis">Analisis</string>
+    <string name="title_activity_solucion__problema">Solucion_Problema</string>
+    <string name="title_activity_tipos__mantenimiento">Tipos_Mantenimiento</string>
+    <string name="title_activity_mantenimiento__preventivo">Mantenimiento_Preventivo</string>
+    <string name="title_activity_mantenimiento__correctivo">Mantenimiento_Correctivo</string>
+    <string name="title_activity_mantenimiento__predictivo">Mantenimiento_Predictivo</string>
+    <string name="title_activity_acerca_de">Acerca_de</string>
+</resources>
