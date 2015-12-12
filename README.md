@@ -1,0 +1,2 @@
+# Diagnosticado-de-Pc
+Mantenimiento
